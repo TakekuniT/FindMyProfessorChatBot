@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable and makes complex topics easier to understand."
+      },
+      {
+        "professor": "Dr. Bob Smith",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Dr. Smith is an excellent professor who explains concepts clearly and is very approachable."
+      },
+      {
+        "professor": "Dr. Carol Davis",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Davis is good, but the lectures can be quite dry and difficult to follow."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Lee is passionate about chemistry and makes the labs engaging and fun."
+      },
+      {
+        "professor": "Dr. Emily Wilson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Dr. Wilson is fantastic, with a great way of relating biology to real-world applications."
+      },
+      {
+        "professor": "Dr. Frank Brown",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Dr. Brown's lectures are often hard to follow and lack practical examples."
+      },
+      {
+        "professor": "Dr. Grace Miller",
+        "subject": "History",
+        "stars": 3,
+        "review": "Dr. Miller has a lot of knowledge, but the lectures are sometimes unorganized."
+      },
+      {
+        "professor": "Dr. Henry Taylor",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Dr. Taylor encourages deep thinking and discussion, making philosophy very engaging."
+      },
+      {
+        "professor": "Dr. Irene Martinez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Martinez is insightful and provides excellent real-life examples to support psychological theories."
+      },
+      {
+        "professor": "Dr. Jack Anderson",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Dr. Anderson is knowledgeable but sometimes lacks enthusiasm in his teaching."
+      },
+      {
+        "professor": "Dr. Karen Thomas",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Thomas presents sociology in a way that is both interesting and relatable."
+      },
+      {
+        "professor": "Dr. Leo Harris",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Harris is difficult to understand and the course lacks structure."
+      },
+      {
+        "professor": "Dr. Maria Clark",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Clark is incredibly passionate about art and makes every lecture captivating."
+      },
+      {
+        "professor": "Dr. Nathan Lewis",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Lewis is very knowledgeable and provides practical examples that are helpful."
+      },
+      {
+        "professor": "Dr. Olivia Walker",
+        "subject": "Music",
+        "stars": 3,
+        "review": "Dr. Walker is good, but sometimes the class feels disorganized."
+      },
+      {
+        "professor": "Dr. Paul Young",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Dr. Young provides real-world insights and makes business concepts easier to grasp."
+      },
+      {
+        "professor": "Dr. Quinn Hall",
+        "subject": "Environmental Science",
+        "stars": 2,
+        "review": "Dr. Hall's lectures are often monotonous and lack depth in the subject matter."
+      },
+      {
+        "professor": "Dr. Rachel Scott",
+        "subject": "Theology",
+        "stars": 3,
+        "review": "Dr. Scott is knowledgeable but the course could benefit from more interactive elements."
+      },
+      {
+        "professor": "Dr. Samuel Green",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Dr. Green is clear and concise, making statistics less intimidating."
+      },
+      {
+        "professor": "Dr. Tina Adams",
+        "subject": "Computer Engineering",
+        "stars": 5,
+        "review": "Dr. Adams is exceptional at breaking down complex topics and is always available for help."
+      }
+    ]
+  }
+  
